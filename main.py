@@ -5,4 +5,4 @@ def main(name):
 
 
 if __name__ == '__main__':
-    main()
+    main("Please work")
