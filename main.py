@@ -1,6 +1,6 @@
 
 def main(name):
-    ...
+    print(name)
 
 
 
